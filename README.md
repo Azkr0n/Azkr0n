@@ -40,6 +40,6 @@
 
 ### ⚡ Quote
 
-> *"There is no way to satisfy those who want to know the reasons behind everything."* – Gottfried Wilhelm Leibniz
+> *"There is no way to satisfy those who want to know the reasons behind everything."* – Me.
 
 ---

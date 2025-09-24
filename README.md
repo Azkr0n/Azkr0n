@@ -10,7 +10,7 @@
 
 - 🎓 Currently studying **mathematics and physics**
 - 💹 Building tools and strategies for **algorithmic trading**
-- 💻 Coding with **Python, TypeScript, Solidity, Lua**, and more
+- 💻 Coding with **Python, TypeScript, Solidity, Lua**, C and C++
 - 🎨 Passionate about 3D creation using **Blender**
 - 🧠 Love mixing scientific thinking with creative development
 
